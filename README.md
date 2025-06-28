@@ -1,6 +1,6 @@
-# SeaFlashTix 📽️
+# Vatizones 📽️
 
-SeaFlashTix adalah aplikasi pemesanan tiket bioskop secara online yang memudahkan pengguna untuk mencari, memilih, dan memesan tiket bioskop dengan mudah melalui website. Dengan SeaFlashTix, pengguna dapat memesan tiket bioskop yang diinginkan tanpa harus antri di loket bioskop. Aplikasi ini dibuat menggunakan framework [Laravel](https://laravel.com).
+Vatizones adalah aplikasi pemesanan tiket bioskop secara online yang memudahkan pengguna untuk mencari, memilih, dan memesan tiket bioskop dengan mudah melalui website. Dengan Vatizones, pengguna dapat memesan tiket bioskop yang diinginkan tanpa harus antri di loket bioskop. Aplikasi ini dibuat menggunakan framework [Laravel](https://laravel.com).
 
 ## Tools Requirement
 Sebelum menjalankan projek ini, ada beberapa aplikasi/software yang perlu di-install dalam PC atau perangkat anda.
@@ -38,14 +38,7 @@ php artisan db:seed
 ```
 php artisan serve
 ```
-Note
-```
-*). Untuk melakukan login:
-    username => ilham_
-    password => ilham123,
-    atau dapat dilihat pada file UserSeeder.php
-*). Anda juga dapat melakukan registrasi untuk membuat data akun baru.
-```
+
 
 
 
